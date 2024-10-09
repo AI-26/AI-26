@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<img src="https://raw.githubusercontent.com/AI-26/AI-26/output/snake.svg" alt="Snake animation" />
+
 
 
 ###
