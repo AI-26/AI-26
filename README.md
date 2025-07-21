@@ -1,5 +1,4 @@
 ## Hi there 👋 
-I am Anish 
 
 ## ⚡️ Stats
 
